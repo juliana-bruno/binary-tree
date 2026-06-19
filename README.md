@@ -1,2 +1,2 @@
 # binary-tree
-prints out different binary tree structures
+Prints out different binary tree structures using methods.
